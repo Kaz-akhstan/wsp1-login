@@ -22,7 +22,10 @@ Det tredje testet gick ut på att med hjälp av cookies faktiskt logga in använ
 Det fjärde och sista testet gick ut på att på att göra ett registrerings formulär. Detta gick ganska bra och vi blev ganska snabbt klar. 
 
 ## Positiva Erfarenheter
+Jag tycker att grupparbetet gick ganska bra, när vi väl började förstå oss på hur det fungerade med sessioner och databaser gick testen bra tycker jag.
 
 ## Negativa Erfarenheter
+Ett problem vi mötte på grund av storleken av gruppen var att det var svårt att få alla i gruppen att förstå. Vi hade även i början vissa problem med att anropa databasen.
 
 ## Sammanfattning
+Sammanfattningsvis tycker jag att detta arbete gått bra och vi har fått lära oss en mängd viktiga saker. Vi lyckades klara alla test, dock finns det viss finslipning som går att göra. Grupparbetet tycker jag gick bra.
